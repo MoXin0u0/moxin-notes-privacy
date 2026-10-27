@@ -11,7 +11,7 @@ https://moxin0u0.github.io/moxin-notes-privacy/
 ## 發布檢查
 - 本網站只涵蓋文字政策；還需在 App 設定頁提供可點擊入口，以及填寫 Play Console Data safety。
 - 本網站不會自動建立 UMP consent message、設定 AdMob 或修改 Play Console。
-- 使用者可透過 [隱私權詢問](https://github.com/MoXin0u0/moxin-notes-privacy/issues/new?template=privacy-inquiry.md) 提出不含私人資料的問題；GitHub Issues 內容公開，且需要登入 GitHub。建議之後新增使用者確認願意公開的隱私聯絡信箱。
+- 公開隱私權聯絡信箱：[MoXin82771@gmail.com](mailto:MoXin82771@gmail.com)。一般問題也可使用 [GitHub Issues](https://github.com/MoXin0u0/moxin-notes-privacy/issues/new?template=privacy-inquiry.md)，但 Issues 內容公開且需要登入，不應張貼私人資料。
 - 檢查政策與實際 Release 版本（本機備份、AdMob Next-Gen、UMP、Google Play Billing）一致，並定期更新政策日期。
 
 官方參考：
