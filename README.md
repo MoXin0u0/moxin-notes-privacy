@@ -16,5 +16,16 @@ https://moxin0u0.github.io/moxin-notes-privacy/
 
 官方參考：
 [Google Play 使用者資料政策](https://support.google.com/googleplay/android-developer/answer/10144311) ·
-[Google Ads Next-Gen 資料揭露](https://developers.google.com/ad-manager/mobile-ads-sdk/android/next-gen/privacy/play-data-disclosure) ·
+[Google Ads Next-Gen 資料揭露](https://developers.google.com/admob/android/next-gen/privacy/play-data-disclosure) ·
 [GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site)
+
+## 維護與實際設定（2026-10-27）
+
+- 公開開發者名稱：墨忻（MoXin0u0）；聯絡信箱已由開發者確認持續使用。
+- 服務定位：一般使用者，不以兒童為目標。Play Console 的目標對象、內容申報及廣告設定仍需依實際產品填寫；文字聲明不會自動完成設定。
+- 本次政策已對照 Android 專案的附件儲存、垃圾桶、手動備份、系統備份排除、權限、廣告同意及購買權益處理。手動備份未加密，且包含封存與垃圾桶資料。
+- 發布廣告版本前：確認 Release 的實際 SDK／資料流、Play「資料安全性」、App 內隱私權政策連結及 UMP 公開政策網址一致；驗證同意選項與移除廣告行為。
+- 客服資料保存、權利請求處理及重大變更通知是實際營運責任，不能只更新政策而不執行。
+- 本次文字及工程核對不是法律意見或法遵認證。若增加兒童受眾、帳號、雲端同步、分析服務或新的資料用途，應重新評估並更新政策。
+
+另參考：[臺灣個人資料保護法](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=I0050021)（適用條文以實際施行日期為準）。
